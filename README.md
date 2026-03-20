@@ -1,4 +1,3 @@
-## Entrega - Los Diablos
 
 **Industria Elegida:** Logistica
 **Repositorio GitHub:** https://github.com/Mateo654-source/AI_document_intelligence
