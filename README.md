@@ -4,10 +4,6 @@
 **Repositorio GitHub:** https://github.com/Mateo654-source/AI_document_intelligence
 **URL Deploy:** https://aidocumentintelligence.lovable.app
 
-**Integrantes**
-- Mateo Rico Valencia
-- Samuel Cardona Navarro
-
 # 🧠 AI Document Intelligence
 
 Convierte facturas físicas y documentos logísticos en **datos confiables** usando **IA multimodal (visión)**.
@@ -32,3 +28,5 @@ Este proyecto es un **prototipo funcional** desarrollado como parte de un *speed
 - ✅ Flujo completo de validación antes de persistencia
 
 ---
+# Autor
+-- Mateo Rico Valencia
